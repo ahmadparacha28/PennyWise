@@ -23,25 +23,25 @@ PennyWise is a full-stack personal finance management application built with Rea
 ## Screenshots
 
 ### Dashboard
-![PennyWise Dashboard](./frontend/Screenshots/Dashboard.png)
+![PennyWise Dashboard](./pennywise.client/Screenshots/Dashboard.png)
 
 ### Transaction Management
-![Transaction Management](./frontend/Screenshots/Transaction.png)
+![Transaction Management](./pennywise.client/Screenshots/Transaction.png)
 
 ### Budget Management
-![Budget Management](./frontend/Screenshots/Budget.png)
+![Budget Management](./pennywise.client/Screenshots/Budget.png)
 
 ### Recurring Transactions
-![Recurring Transactions](./frontend/Screenshots/Recurring%20Transaction.png)
+![Recurring Transactions](./pennywise.client/Screenshots/Recurring%20Transaction.png)
 
 ### Category Analysis
-![Category Analysis](./frontend/Screenshots/Category.png)
+![Category Analysis](./pennywise.client/Screenshots/Category.png)
 
 ### Financial Insights
-![Financial Insights](./frontend/Screenshots/Financial%20Insights.png)
+![Financial Insights](./pennywise.client/Screenshots/Financial%20Insights.png)
 
 ### Recurring Schedule
-![Recurring Schedule](./frontend/Screenshots/Schedule.png)
+![Recurring Schedule](./pennywise.client/Screenshots/Schedule.png)
 
 
 
